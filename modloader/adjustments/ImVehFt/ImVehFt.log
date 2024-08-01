@@ -1,0 +1,32 @@
+Attaching texture maps plugin...
+Finished (96).
+This file was created by ImVehFt.asi
+Current plugin version: 2.1.1
+
+Reading ImVehFt.ini...
+Finished.
+Making ImVehFt memory patches...
+Finished.
+Registering vehicle plugin...
+Finished (registered vehicle plugin 0)
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 1
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 2
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 3
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 4
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 5
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 6
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 7
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 8
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 9
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 10
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 11
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 12
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 13
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 14
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 15
+____LOADED_TEXTURE _tyre, TEXTURES_LOADED: 16
+____LOADED_TEXTURE IVF_texHeadlightS, TEXTURES_LOADED: 17
+____LOADED_TEXTURE IVF_texHeadlightL, TEXTURES_LOADED: 18
+____LOADED_TEXTURE IVF_texTaillight, TEXTURES_LOADED: 19
+____LOADED_TEXTURE IVF_texBackfire, TEXTURES_LOADED: 20
+____LOADED_TEXTURE IVF_texPointlight, TEXTURES_LOADED: 21
